@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **Linux, Hyprland**
+- 💬 Ask me about **Linux, Hyprland, C**
 
 - 📫 How to reach me **sanjarxolmatov@proton.me**
 
